@@ -16,10 +16,21 @@ I'm **Napoleon Chikadibia**, a passionate developer and creative designer dedica
 
 ---
 
-### 🧰 Used to Code With
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma,photoshop" />
-</p>
+### ⚡ Used to Code With
+<div align="center" style="background: linear-gradient(135deg, #1e1e2f, #24243e); padding: 20px; border-radius: 15px;">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma,photoshop" width="80%" style="animation: glow 2s infinite alternate;" />
+</div>
+
+<style>
+@keyframes glow {
+  from {
+    filter: drop-shadow(0 0 2px #6ee7b7) drop-shadow(0 0 5px #93c5fd);
+  }
+  to {
+    filter: drop-shadow(0 0 6px #3b82f6) drop-shadow(0 0 12px #6ee7b7);
+  }
+}
+</style>
 
 ---
 
