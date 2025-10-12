@@ -30,17 +30,6 @@
   <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma,photoshop" width="90%" style="transition: transform 0.3s ease, filter 0.3s ease; filter: drop-shadow(0 0 6px #4FC3F7);"></a>
 </p>
 
-<style>
-  @keyframes glow {
-    from { filter: drop-shadow(0 0 2px #4FC3F7); }
-    to { filter: drop-shadow(0 0 8px #81D4FA); }
-  }
-  img:hover {
-    transform: scale(1.02);
-    filter: drop-shadow(0 0 10px #4FC3F7);
-  }
-</style>
-
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation">
 </p>
