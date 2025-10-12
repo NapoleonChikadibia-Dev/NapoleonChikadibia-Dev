@@ -35,10 +35,4 @@ I’m passionate about merging **technology and creativity** — building modern
 
 ---
 
-## 📊 GitHub Stats
-![Napoleon's GitHub stats](https://github-readme-stats.vercel.app/api?username=NapoleonChikadibia&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NapoleonChikadibia&layout=compact&theme=tokyonight)
-
----
-
 > 💡 *“Creativity is intelligence having fun.” – Albert Einstein*
