@@ -31,7 +31,6 @@ I’m passionate about merging **technology and creativity** — building modern
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/napoleon-chikadibia-8bb97b352)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](https://www.instagram.com/napoleon_chikadibia?igsh=aGt5dHNncG05c3V1)
 [![Twitter](https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white)](https://x.com/Napoleonchika?t=pL_FGb1f7EvLuRd6pbYxIA&s=09)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white)](your-portfolio-link)
 
 ---
 
