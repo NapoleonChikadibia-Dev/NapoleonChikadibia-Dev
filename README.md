@@ -27,7 +27,7 @@
 
 ### ⚡ Used to Code With
 <p align="center" style="animation: glow 2s infinite alternate;">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma,photoshop" width="90%" style="transition: transform 0.3s ease, filter 0.3s ease; filter: drop-shadow(0 0 6px #4FC3F7);"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma,photoshop" width="90%" style="transition: transform 0.3s ease, filter 0.3s ease; filter: drop-shadow(0px 0px 6px #4FC3F7);"></a>
 </p>
 
 <p align="center">
