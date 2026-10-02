@@ -4,7 +4,7 @@
 
 **I build websites and design brand graphics, and I'm a photographer too.**
 
-Based in Nigeria. I work under [NC Edits Studio](YOUR-STUDIO-OR-PORTFOLIO-URL), where web development, graphic design, and photo retouching come together in one workflow.
+Based in Nigeria. I'm Founder of  [NC Edits Studio](YOUR-STUDIO-OR-PORTFOLIO-URL), where web development, graphic design, and photo retouching come together in one workflow.
 
 <br>
 
