@@ -1,69 +1,79 @@
-<!-- ✨ Elegant Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=700&lines=👋+Welcome+to+My+GitHub+Profile!;I'm+Napoleon+Chikadibia;💻+Web+Developer+|+🎨+Creative+Designer+|+📸+Visual+Artist" alt="Typing SVG">
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&duration=3000&pause=1000&color=90CAF9&center=true&vCenter=true&width=700&lines=✨+Creating+beautiful+and+functional+digital+experiences!;⚡+Building+and+Designing+with+Passion+and+Purpose." alt="Subheader typing animation">
-</p>
+# Hi, I'm Napoleon
 
----
+**I build websites and design brand graphics, and I'm a photographer too.**
 
-### 👨‍💻 About Me
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=About%20Me%20✨&width=800&height=100" alt="Glitch Animated Header">
-</p>
+Based in Nigeria. I work under [NC Edits Studio](YOUR-STUDIO-OR-PORTFOLIO-URL), where web development, graphic design, and photo retouching come together in one workflow.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=16&duration=4000&pause=1000&color=64B5F6&center=true&vCenter=true&width=700&lines=I'm+Napoleon+Chikadibia,+a+passionate+developer+and+creative+designer.;Focused+on+building+clean,+functional,+and+visual+experiences.;Always+learning,+exploring,+and+creating+🌱" alt="About Me Typing Animation">
-</p>
+<br>
 
-- 💡 Improving my full-stack development skills  
-- 🎨 Merging creativity with modern tech  
-- 📸 Visual Artist — capturing stories through photography  
-- 🤝 Open to collaborations and learning opportunities  
+<a href="YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/View%20my%20portfolio-1F6FEB?style=for-the-badge" alt="View my portfolio"></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/napoleon-chikadibia-8bb97b352"><img src="https://img.shields.io/badge/Message%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Message me on LinkedIn"></a>
 
----
+</div>
 
-### ⚡ Used to Code With
-<p align="center" style="animation: glow 2s infinite alternate;">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma,photoshop" width="90%" style="transition: transform 0.3s ease, filter 0.3s ease; filter: drop-shadow(0px 0px 6px #4FC3F7);"></a>
-</p>
+<br>
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation">
-</p>
+## About me
 
----
+I started in visual work, shooting and retouching photos, then designing graphics for clients. Two years ago I began writing code, and I haven't stopped since. That mix shapes how I build: I think about how a page looks and feels before I think about how it's wired.
 
-### 🌍 Top Open Source Contributions
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NapoleonChikadibia-Dev&show_icons=true&theme=calm_pink&hide_border=true&bg_color=0D1117&title_color=90CAF9&icon_color=4FC3F7&text_color=E3F2FD">
-</p>
+I also contribute as a graphics designer and software developer at TEKHUB NG, a tech training organization.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NapoleonChikadibia-Dev&theme=calm_pink&hide_border=true&background=0D1117&ring=4FC3F7&fire=90CAF9&currStreakLabel=90CAF9">
-</p>
+Right now I'm strengthening my full-stack skills and open to freelance projects and collaborations.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NapoleonChikadibia-Dev&layout=compact&theme=calm_pink&hide_border=true&bg_color=0D1117&title_color=90CAF9&text_color=E3F2FD">
-</p>
+<br>
 
----
+## What I do
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/napoleon-chikadibia-8bb97b352">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/napoleon_chikadibia">
-    <img src="https://img.shields.io/badge/Instagram-D82E7A?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://x.com/Napoleonchika">
-    <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-</p>
+| Web development | Graphic design | Photography and retouching |
+| :--- | :--- | :--- |
+| Responsive websites and web apps with React and Node.js, built to be fast and easy to use. | Logos, social media graphics, and brand visuals that keep a business looking consistent. | Portraits and event photos, edited with care so people still look like themselves. |
 
----
+<br>
 
-⭐ **“Turning ideas into creative experiences.”**
+## Selected work
+
+| Project | What it is | Link |
+| :--- | :--- | :--- |
+| **Deep Soak** | Website for a laundry service in Awka and Onitsha, with custom interface effects. | [Visit site](DEEP-SOAK-URL) |
+| **Adaeze Kids AI** | A YouTube channel for children's nursery rhymes, made with AI-generated video. | [Watch](ADAEZE-KIDS-AI-URL) |
+| **Add a third project** | One sentence on what it does and who it was for. | [Visit site](PROJECT-URL) |
+
+<br>
+
+## Tools I use
+
+**Build**
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github&theme=light">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github&theme=dark" alt="HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, Git, GitHub">
+</picture>
+
+**Design**
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=figma,photoshop&theme=light">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop&theme=dark" alt="Figma, Photoshop">
+</picture>
+
+<br>
+
+## Let's work together
+
+If you need a website, a brand look, or photos edited well, I'd like to hear about it. Send a message on any of these and I'll reply as soon as I can.
+
+<a href="https://www.linkedin.com/in/napoleon-chikadibia-8bb97b352"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/napoleon_chikadibia"><img src="https://img.shields.io/badge/Instagram-D82E7A?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://x.com/Napoleonchika"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+
+<br>
+
+<div align="center">
+
+*Turning ideas into creative experiences.*
+
+</div>
